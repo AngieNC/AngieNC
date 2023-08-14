@@ -18,9 +18,12 @@ I'm a colombian girl who wants to learn new things and take it to another level.
  *Well, at my school, robotics was as a subject and we had to program a robot and do graphic projects, for that reason my curiosity in programming.*
 
 
-
-**Skills** *Reliability* / *Analytical thinking*
-           
+| Skills | 
+| ------ | 
+| Reliability | 
+| Analytical thinking | 
+| Team-building | 
+| Attention to detail | 
 
 
 - 🔭 I’m currently studying on Campus
