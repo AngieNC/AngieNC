@@ -4,7 +4,7 @@
 **About me**
 
 
-I'm a colombian girl who wants to learn new things and take it to another level. 
+I'm a colombian who wants to learn new things and take it to another level. 
 
     ⚡Nijepra school Student graduated
 
