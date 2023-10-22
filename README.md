@@ -28,8 +28,6 @@ I'm a colombian who wants to learn new things and take it to another level.
 
 
 - 🔭 I’m currently studying on Campus
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Python
 - 📫 How to reach me: angienathalia.32276@gmail.com
-
-`README.md` (this file)
