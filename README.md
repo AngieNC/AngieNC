@@ -4,7 +4,7 @@
 **About me**
 
 
-I'm a colombian who wants to learn new things and take it to another level. 
+I'm a backend developer who wants to learn new things and take it to another level. 
 
     ⚡Nijepra school Student graduated
 
@@ -27,7 +27,7 @@ I'm a colombian who wants to learn new things and take it to another level.
 | Attention to detail | 
 
 
-- 🔭 I’m currently studying on Campus
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Amaris Consulting
+- 🌱 I’m currently learning Dynamic Messaging
 - 👯 I’m looking to collaborate on SQL
 - 📫 How to reach me: angienathalia.32276@gmail.com
